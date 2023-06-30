@@ -1,1 +1,0 @@
-web: gunicorn nodedata.wsgi --log-file -
